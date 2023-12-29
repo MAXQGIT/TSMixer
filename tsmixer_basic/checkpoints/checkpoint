@@ -1,0 +1,2 @@
+model_checkpoint_path: "weather_M_tsmixer_sl336_pl96_lr0.0001_ntB_relu_nb2_dp0.05_fd2048_best"
+all_model_checkpoint_paths: "weather_M_tsmixer_sl336_pl96_lr0.0001_ntB_relu_nb2_dp0.05_fd2048_best"
